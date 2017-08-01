@@ -64,13 +64,7 @@ This option can also be used to utilize third-party reporters. For example, if y
 ##### reporterOptions
 
 Type: `object`<br>
-Example:
-```js
-      reporterOptions: {
-        reportFilename: 'index.html',
-        reportDir: 'bin/report'
-      }
-```
+Example: `js: reporterOptions: { reportFilename: 'index.html' } `
 
 Reporter specific options.
 
